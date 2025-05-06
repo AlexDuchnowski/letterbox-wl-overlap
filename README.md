@@ -8,5 +8,9 @@ Given that you and enough of your friends use the watchlist feature on [letterbo
 
 ## Usage
 
-1. Call `python letterbox-wl-scape.py`
+1. Call `python letterboxd-wl-scrape.py -f username1 username2 username3 ...`
 2. View the contents of `movies-in-common.txt`
+
+### Command Line Arguments
+
+Use `python letterboxd-wl-scrape.py -h` to get command line options.
